@@ -6,3 +6,9 @@ background-color: black;
 color: aliceblue;
   font-family: "Chelsea Market", system-ui;
 }
+
+.cabecalho{
+  background-color: rgb(226, 43, 43);
+text-align: center;
+
+}
