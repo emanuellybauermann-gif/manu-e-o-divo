@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
 
-
 body{
 background-color: black;
 color: aliceblue;
@@ -10,6 +9,8 @@ color: aliceblue;
 .cabecalho{
   background-color: rgb(226, 43, 43);
 text-align: center;
+   padding:20px;
+
 
 }
  
