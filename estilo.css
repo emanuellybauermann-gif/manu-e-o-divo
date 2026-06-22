@@ -19,5 +19,13 @@ text-align: center;
   width: 80px;
   height: 80px;  
   }
+  main{
+background-color: ghostwhite;
+color: #183c63;
+max-width: 800px;
+margin: 0 auto;
+padding: 16px;
+
+  }
 
  
