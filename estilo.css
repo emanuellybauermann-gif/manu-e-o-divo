@@ -31,4 +31,13 @@ padding: 16px;
 margin-left: 40px;
 
 }
- 
+ button{
+width: 100px;
+padding: 10px;
+border-radius: 10px;
+background-color: aliceblue;
+color: white;
+
+
+
+ }
